@@ -2,8 +2,7 @@
 #djp9rz
 #2/20/17
 
-def greeting(msg):
-  print(msg)
+import helper.py
 
 if __name__ == "__main__":
   greeting("hello")
