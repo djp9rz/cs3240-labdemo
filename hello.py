@@ -1,2 +1,9 @@
+#Jordan Pierce
+#djp9rz
+#2/20/17
+
+def greeting(msg):
+  print(msg)
+
 if __name__ == "__main__":
-  print("hello")
+  greeting("hello")
